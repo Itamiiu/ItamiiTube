@@ -6,6 +6,7 @@ Info:
 Wersja 0.3.4 jest wadliwa
 wersja 0.3.5 poprawia jedną linijke.
 
-Błędy w 0.3.6 aktualnie tworzę.
+ aktualnie tworzę 0.3.6. Błędy w tej wersji:
 - Chwilowo występuje błąd po odpisaniu: Tak. na pytanie czy coś jeszcze chcesz pobrać. Potrzeba poprawić pętle. mimo że w poprzedniej wersji nie było tego problemu.
 - Zmiana lokalizacji exe aby było shludnie schowane w Dokumentach.
+- Coś nie pasuje z ffmpeg i nie inportuje go
