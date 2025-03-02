@@ -4,4 +4,6 @@ Kodzik do pobierania video z różnych stron internetowych.
 
 Info:
 Ta wersja działa prawidłowo :3
-jedyne co zostanie dodane w wersji 0.3.7 to auto update do konkretnego foldera.
+Dodane w wersji 0.3.7
+- auto update do konkretnego foldera.
+- sprawdza 2 razy czy jest ffmpeg.
