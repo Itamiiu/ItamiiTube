@@ -9,3 +9,4 @@ wersja 0.3.5 poprawia jedną linijke.
 Błędy w 0.3.6 aktualnie tworzę.
 - Chwilowo występuje błąd po odpisaniu: Tak. na pytanie czy coś jeszcze chcesz pobrać. Potrzeba poprawić pętle. mimo że w poprzedniej wersji nie było tego problemu.
 - Zmiana lokalizacji exe aby było shludnie schowane w Dokumentach.
+- Coś nie pasuje z ffmpeg i nie inportuje go
